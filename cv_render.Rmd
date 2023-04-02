@@ -55,8 +55,6 @@ print_skills(cv)
 
 ## Disclaimer {#disclaimer}
 
-Last updated on `r Sys.Date()`.
-
 Prepared by {Pagedown}
 
 # Main
